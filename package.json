@@ -1,0 +1,22 @@
+{
+  "name": "logic-solver",
+  "version": "1.0.0",
+  "description": "solves logic puzzles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TripletForce/Logic-Solver.git"
+  },
+  "keywords": [
+    "logic"
+  ],
+  "author": "Kael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TripletForce/Logic-Solver/issues"
+  },
+  "homepage": "https://github.com/TripletForce/Logic-Solver#readme"
+}
