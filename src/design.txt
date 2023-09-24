@@ -1,0 +1,6 @@
+Operators:
+    v or
+    ^ and
+    ! not
+    -> implies
+
